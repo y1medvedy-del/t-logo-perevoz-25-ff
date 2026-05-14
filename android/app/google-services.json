@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "294759838812",
+    "project_id": "t-logo-a-d-m-i-n25-3sa73i",
+    "storage_bucket": "t-logo-a-d-m-i-n25-3sa73i.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294759838812:android:f9691eac9f96a6085ae299",
+        "android_client_info": {
+          "package_name": "com.mycompany.tlogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUt2eGJAJkXGwsLG5Gblk1W7Fh4l9WaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294759838812:android:73b2d95d54dddb9d5ae299",
+        "android_client_info": {
+          "package_name": "com.mycompany.tlogoPerevoz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUt2eGJAJkXGwsLG5Gblk1W7Fh4l9WaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294759838812:android:084996123c324e865ae299",
+        "android_client_info": {
+          "package_name": "com.mycompany.tlogoadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUt2eGJAJkXGwsLG5Gblk1W7Fh4l9WaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
