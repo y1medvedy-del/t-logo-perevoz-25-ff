@@ -308,8 +308,8 @@ class BikBankCall {
 
 class GeoCall {
   static Future<ApiCallResponse> call({
-    double? lat,
-    double? lon,
+    double? lat = 0,
+    double? lon = 0,
     int? radiusMeters = 1000,
   }) async {
     final ffApiRequestBody = '''
